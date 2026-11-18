@@ -1,0 +1,87 @@
+{
+  "accuracy": 0.7167,
+  "macro_f1": 0.7171,
+  "n_train": 240,
+  "n_test": 60,
+  "n_classes": 10,
+  "random_seed": 42,
+  "test_size": 0.2,
+  "per_class": {
+    "Bills & Utilities": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571428571428571,
+      "support": 6.0
+    },
+    "Education": {
+      "precision": 0.5714285714285714,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.6153846153846154,
+      "support": 6.0
+    },
+    "Entertainment": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 6.0
+    },
+    "Food & Drinks": {
+      "precision": 0.42857142857142855,
+      "recall": 1.0,
+      "f1-score": 0.6,
+      "support": 6.0
+    },
+    "Health": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 6.0
+    },
+    "Housing": {
+      "precision": 0.8571428571428571,
+      "recall": 1.0,
+      "f1-score": 0.9230769230769231,
+      "support": 6.0
+    },
+    "Other": {
+      "precision": 0.75,
+      "recall": 0.5,
+      "f1-score": 0.6,
+      "support": 6.0
+    },
+    "Shopping": {
+      "precision": 0.6666666666666666,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.6666666666666666,
+      "support": 6.0
+    },
+    "Transport": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 6.0
+    },
+    "Travel": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.9090909090909091,
+      "support": 6.0
+    },
+    "accuracy": 0.7166666666666667,
+    "macro avg": {
+      "precision": 0.8023809523809524,
+      "recall": 0.7166666666666666,
+      "f1-score": 0.7171361971361971,
+      "support": 60.0
+    },
+    "weighted avg": {
+      "precision": 0.8023809523809523,
+      "recall": 0.7166666666666667,
+      "f1-score": 0.717136197136197,
+      "support": 60.0
+    }
+  },
+  "sklearn_version": "1.6.0",
+  "trained_at": "2026-11-18T21:04:11+00:00",
+  "note": "Evaluated on a small synthetic dataset; real-world accuracy will be lower."
+}

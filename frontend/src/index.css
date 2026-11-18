@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-tap-highlight-color: transparent; }
+  body { @apply bg-cream font-sans text-ink antialiased; }
+  h1, h2, h3, .font-display { font-family: "Fraunces", Georgia, serif; font-optical-sizing: auto; }
+  :focus-visible { @apply outline-2 outline-offset-2 outline-forest; outline-style: solid; }
+}
+
+@layer components {
+  .card { @apply rounded-3xl bg-white p-5 shadow-card; }
+  .input { @apply w-full rounded-2xl border border-crumb bg-cream px-4 py-2.5 text-sm text-ink placeholder:text-ink-soft/60 focus:border-forest focus:bg-white focus:outline-none; }
+  .label { @apply mb-1 block text-sm font-medium text-ink-soft; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-bold transition active:scale-[.97] disabled:cursor-not-allowed disabled:opacity-50; }
+  .btn-primary { @apply btn bg-tomato text-white hover:bg-tomato-dark; }
+  .btn-green { @apply btn bg-forest text-white hover:bg-forest-dark; }
+  .btn-ghost { @apply btn bg-crumb/60 text-ink hover:bg-crumb; }
+}
+
+/* The receipt: zig-zag torn edge on the bottom of the hero card */
+.receipt-edge {
+  --s: 10px;
+  mask: conic-gradient(from -45deg at bottom, #0000, #000 1deg 89deg, #0000 90deg) 50% / var(--s) 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}

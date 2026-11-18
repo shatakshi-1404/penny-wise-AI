@@ -1,0 +1,301 @@
+text,category
+Bought pizza at Domino's for 450,Food & Drinks
+Lunch at the college canteen,Food & Drinks
+Swiggy order biryani and raita,Food & Drinks
+Zomato dinner with friends,Food & Drinks
+Coffee at Starbucks,Food & Drinks
+Chai and samosa from the tapri,Food & Drinks
+Paid for burgers at McDonald's,Food & Drinks
+Ordered dosa and filter coffee,Food & Drinks
+Weekly groceries from the supermarket,Food & Drinks
+Bought vegetables and fruits at the mandi,Food & Drinks
+Milk and bread from the corner store,Food & Drinks
+Ice cream at Naturals,Food & Drinks
+Breakfast poha and tea,Food & Drinks
+Birthday cake from the bakery,Food & Drinks
+Dinner at a restaurant with family,Food & Drinks
+Cold drink and chips from the shop,Food & Drinks
+BigBasket grocery delivery,Food & Drinks
+Biryani from Behrouz,Food & Drinks
+Pani puri at the street stall,Food & Drinks
+Sandwich and juice at the cafe,Food & Drinks
+Paid 300 for an Uber ride,Transport
+Ola cab to the railway station,Transport
+Metro card recharge,Transport
+Petrol for the bike,Transport
+Auto rickshaw fare to college,Transport
+Rapido bike taxi to office,Transport
+Filled fuel at the petrol pump,Transport
+Bus pass for the month,Transport
+Parking fee at the mall,Transport
+Highway toll charge FASTag,Transport
+Uber to the airport,Transport
+Bike servicing and oil change,Transport
+Local train ticket,Transport
+Cab fare home late night,Transport
+City bus ticket,Transport
+Car wash and fuel top up,Transport
+Paid auto driver 120,Transport
+Metro ride to the campus,Transport
+Bicycle repair puncture,Transport
+Diesel refill for the car,Transport
+Bought headphones for 2500,Shopping
+Amazon order for a phone case,Shopping
+Flipkart purchase of running shoes,Shopping
+Myntra shirt and jeans,Shopping
+New backpack for college,Shopping
+Bought a watch at the mall,Shopping
+Ordered a laptop stand online,Shopping
+Sneakers from Nike store,Shopping
+Gift for a friend's birthday,Shopping
+Bought a kurta for the festival,Shopping
+Purchased a bluetooth speaker,Shopping
+Ajio clothing order,Shopping
+Bought sunglasses,Shopping
+New wallet and belt,Shopping
+Meesho order for home decor,Shopping
+Phone charger and cable from Amazon,Shopping
+Bought a mechanical keyboard,Shopping
+Cosmetics from Nykaa,Shopping
+Bought curtains and bedsheets,Shopping
+Shopping at Zara,Shopping
+Paid monthly house rent,Housing
+Rent for the PG accommodation,Housing
+Hostel fee for the semester,Housing
+Society maintenance charges,Housing
+Security deposit for the flat,Housing
+Paid the landlord for rent,Housing
+Plumber charges for fixing the tap,Housing
+Furniture for the new room,Housing
+Bought a mattress,Housing
+Electrician repair in the flat,Housing
+Broker fee for the apartment,Housing
+Home loan EMI payment,Housing
+Painting the flat before moving out,Housing
+Maid salary for the month,Housing
+Bought a study table and chair,Housing
+House cleaning service,Housing
+Moving and packers charges,Housing
+Mess fees for the month,Housing
+Flat maintenance and water charges,Housing
+Rent for the shared apartment,Housing
+Paid electricity bill of 1800,Bills & Utilities
+Jio mobile recharge,Bills & Utilities
+Airtel postpaid bill,Bills & Utilities
+Broadband internet bill,Bills & Utilities
+Water bill payment,Bills & Utilities
+Piped gas bill,Bills & Utilities
+LPG cylinder refill,Bills & Utilities
+DTH recharge for TV,Bills & Utilities
+Wifi router plan renewal,Bills & Utilities
+Credit card bill payment,Bills & Utilities
+Vodafone Idea prepaid recharge,Bills & Utilities
+Electricity board payment,Bills & Utilities
+Insurance premium payment,Bills & Utilities
+Property tax payment,Bills & Utilities
+Mobile phone bill,Bills & Utilities
+Gas cylinder booking,Bills & Utilities
+Tata Play recharge,Bills & Utilities
+Fiber internet monthly plan,Bills & Utilities
+Paid municipal water tax,Bills & Utilities
+Postpaid bill for the family plan,Bills & Utilities
+Doctor consultation fee,Health
+Bought medicines from Apollo Pharmacy,Health
+Dental checkup and cleaning,Health
+Blood test at the diagnostic lab,Health
+Gym membership renewal,Health
+Eye checkup and new spectacles,Health
+Paid hospital bill,Health
+Vitamins and protein supplements,Health
+Physiotherapy session,Health
+Yoga class monthly fees,Health
+Pharmacy purchase for fever tablets,Health
+Health insurance checkup,Health
+Bought a first aid kit,Health
+X-ray and scan charges,Health
+Skin doctor appointment,Health
+Cough syrup and bandages,Health
+Contact lenses and solution,Health
+Vaccination at the clinic,Health
+Online therapy session fee,Health
+MRI scan at the hospital,Health
+Netflix monthly subscription,Entertainment
+Movie tickets on BookMyShow,Entertainment
+Spotify premium renewal,Entertainment
+Amazon Prime Video membership,Entertainment
+Bowling night with friends,Entertainment
+Concert tickets,Entertainment
+Bought a PlayStation game,Entertainment
+Hotstar subscription,Entertainment
+Steam game purchase,Entertainment
+Went to the amusement park,Entertainment
+YouTube Premium plan,Entertainment
+Movie night at PVR with popcorn,Entertainment
+Comedy show tickets,Entertainment
+Arcade and gaming zone,Entertainment
+Paid for a stand up show,Entertainment
+Bought a board game,Entertainment
+Cricket match tickets,Entertainment
+Escape room with friends,Entertainment
+Disney Plus annual plan,Entertainment
+Mobile game in app purchase,Entertainment
+Udemy course on machine learning,Education
+Semester tuition fee,Education
+Bought textbooks for the exam,Education
+Coursera subscription,Education
+Exam registration fee,Education
+Coaching class monthly fee,Education
+Printed notes and stationery,Education
+Online certification exam fee,Education
+Library membership fee,Education
+Bought notebooks and pens,Education
+Paid for GRE preparation material,Education
+Workshop registration fee,Education
+Kindle ebook for studying,Education
+Paid college admission fee,Education
+Competitive programming contest course,Education
+Hackathon registration fee,Education
+Tuition fees for the private tutor,Education
+Bought a scientific calculator,Education
+Language learning app subscription,Education
+Project report printing and binding,Education
+Flight tickets to Goa,Travel
+IRCTC train booking,Travel
+Hotel booking for the weekend trip,Travel
+MakeMyTrip holiday package,Travel
+Booked a bus ticket to Delhi,Travel
+Airbnb stay in Manali,Travel
+Visa application fee,Travel
+Travel insurance for the trip,Travel
+Resort stay for two nights,Travel
+Sightseeing tour tickets,Travel
+Airport taxi and luggage fees,Travel
+Redbus ticket for the vacation,Travel
+Hostel stay while backpacking,Travel
+Souvenirs from the trip,Travel
+Goibibo flight booking,Travel
+Trekking trip registration,Travel
+Passport renewal fee,Travel
+Train tickets for the holidays,Travel
+Beach resort booking,Travel
+Road trip toll and hotel,Travel
+Donation to the temple,Other
+Gave money to a friend,Other
+Bank account maintenance fee,Other
+Charity contribution,Other
+Miscellaneous expense,Other
+Courier charges,Other
+Stamp paper and notary,Other
+Late payment penalty,Other
+Cash withdrawn from ATM,Other
+Wedding gift envelope,Other
+Lost item replacement fee,Other
+Pet food and supplies,Other
+Laundry and dry cleaning,Other
+Haircut at the salon,Other
+Photocopy and lamination,Other
+Paid fine for a traffic challan,Other
+Contribution to the farewell party,Other
+Repaid money borrowed from a friend,Other
+Unknown UPI payment,Other
+Paid for shoe repair at the cobbler,Other
+Swiggy,Food & Drinks
+Zomato order,Food & Drinks
+Dinner at a restaurant,Food & Drinks
+Groceries from DMart,Food & Drinks
+Snacks and tea at the canteen,Food & Drinks
+Pizza night with roommates,Food & Drinks
+Starbucks cold coffee,Food & Drinks
+Lunch with colleagues at a cafe,Food & Drinks
+Fruit juice and sandwich,Food & Drinks
+Blinkit grocery order for vegetables and milk,Food & Drinks
+Uber,Transport
+Ola ride to college,Transport
+Petrol pump fuel,Transport
+Metro recharge,Transport
+Cab to the office,Transport
+Rapido ride,Transport
+Auto fare,Transport
+Bus ticket,Transport
+Fuel for the scooter,Transport
+Uber auto to the market,Transport
+Amazon order,Shopping
+Flipkart order,Shopping
+Myntra clothes,Shopping
+Bought new shoes,Shopping
+Bought a jacket for winter,Shopping
+Online shopping for a t-shirt,Shopping
+Bought earphones online,Shopping
+Mall shopping for clothes,Shopping
+Bought a gift for mom,Shopping
+Nykaa makeup order,Shopping
+House rent,Housing
+Monthly rent payment to landlord,Housing
+Rent,Housing
+PG rent for the month,Housing
+Hostel rent,Housing
+Flat deposit and brokerage,Housing
+Bought furniture for the flat,Housing
+Maintenance charges for the apartment,Housing
+Repair work in the house,Housing
+Home EMI,Housing
+Electricity bill,Bills & Utilities
+Mobile recharge,Bills & Utilities
+Internet bill,Bills & Utilities
+Jio recharge,Bills & Utilities
+Airtel bill payment,Bills & Utilities
+Water and gas bill,Bills & Utilities
+Phone bill,Bills & Utilities
+Wifi bill,Bills & Utilities
+Paid the electricity and water bills,Bills & Utilities
+Recharge for the data pack,Bills & Utilities
+Doctor fee,Health
+Pharmacy,Health
+Medicines,Health
+Hospital charges,Health
+Gym fees,Health
+Dentist visit,Health
+Medical test at the lab,Health
+Bought medicine tablets from the chemist,Health
+Doctor visit for fever,Health
+Gym membership,Health
+Netflix,Entertainment
+Movie tickets,Entertainment
+Spotify subscription,Entertainment
+Movie with friends at the cinema,Entertainment
+Gaming purchase on Steam,Entertainment
+Prime Video subscription,Entertainment
+Concert pass,Entertainment
+OTT subscription renewal,Entertainment
+Bought a video game,Entertainment
+Netflix and Spotify plans,Entertainment
+Udemy course,Education
+College fees,Education
+Bought books for class,Education
+Online course subscription,Education
+Exam fee payment,Education
+Tuition fee,Education
+Stationery and notebooks,Education
+Coaching fees,Education
+Bought a programming book,Education
+Certification exam fee,Education
+Flight ticket,Travel
+Train ticket booking,Travel
+Hotel stay,Travel
+Trip to Goa,Travel
+Bus ticket for the trip,Travel
+Vacation booking on MakeMyTrip,Travel
+Flight tickets for the holidays,Travel
+Hotel booking on Booking dot com,Travel
+Holiday trip expenses,Travel
+Weekend getaway booking,Travel
+ATM withdrawal,Other
+Donation,Other
+Gift money,Other
+Haircut,Other
+Laundry,Other
+Fine paid,Other
+Lent money to a friend,Other
+Bank charges,Other
+Pet supplies,Other
+Something else,Other
